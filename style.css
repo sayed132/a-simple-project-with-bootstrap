@@ -5,6 +5,12 @@
     position: absolute;
     right: 5%;
 }
+.possition-2{
+    position:absolute ;
+    top: -4%;
+    right: 5%;
+    font-size: 0.7rem;
+}
 @media screen and (min-width: 100px) and (max-width:314px) {
     
     .carosel-1 h5{
