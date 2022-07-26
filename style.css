@@ -1,6 +1,10 @@
 .btn-book-now{
     width: 170px;
 }
+.offer{
+    position: absolute;
+    right: 5%;
+}
 @media screen and (min-width: 100px) and (max-width:314px) {
     
     .carosel-1 h5{
